@@ -86,12 +86,9 @@ Press Upload (arrow icon) to flash the firmware.
 
 5. Monitor Serial Output
 Open the Serial Monitor:
-
 Tools → Serial Monitor
 Set baud rate to 9600
-
 You should see debugging output like:
-
 Starting maze...
 Moving forward
 Wall detected
