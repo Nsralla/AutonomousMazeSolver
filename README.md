@@ -2,7 +2,6 @@
 
 An autonomous maze-solving robot that uses the flood fill algorithm to efficiently navigate through mazes.
 
-![Micromouse Maze Solver](https://via.placeholder.com/800x400?text=Micromouse+Maze+Solver)
 
 ## 🤖 Overview
 
