@@ -71,3 +71,27 @@ Three ultrasonic sensors detect walls around the robot:
 2. **Clone this repository:**
    ```bash
    [git clone https://github.com/yourusername/FloodFill-Micromouse.git](https://github.com/Nsralla/AutonomousMazeSolver.git)
+   ```
+3.  Open the Project
+Open the main.ino file using:
+Arduino IDE — directly open main.ino
+PlatformIO in VS Code — open the project folder
+
+4. Upload the Code
+Select your board (e.g., Arduino Uno) under:
+Tools → Board → [Your Board]
+Choose the correct COM port:
+Tools → Port → [Your COM Port]
+Press Upload (arrow icon) to flash the firmware.
+
+5. Monitor Serial Output
+Open the Serial Monitor:
+
+Tools → Serial Monitor
+Set baud rate to 9600
+
+You should see debugging output like:
+
+Starting maze...
+Moving forward
+Wall detected
