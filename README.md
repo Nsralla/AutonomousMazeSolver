@@ -67,7 +67,6 @@ Three ultrasonic sensors detect walls around the robot:
 
 1. **Install the required Arduino libraries:**
    - [AccelStepper](https://www.airspayce.com/mikem/arduino/AccelStepper/)
-   - (Add any others used in the code if applicable)
 
 2. **Clone this repository:**
    ```bash
